@@ -7,3 +7,5 @@ void ValidateAction::Execute()
 {
     pManager->ValidateCircuit();
 }
+
+//testing
